@@ -1,5 +1,4 @@
-import com.timbuchalka.Account;
-import com.timbuchalka.VipCustomer;
+package com.timbuchalka;
 
 public class Main {
     public static void main(String[] args) {
